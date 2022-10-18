@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Components</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_675294_amos_component</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_675294_amos.component_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 02:19:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5954278b2f421110d43d2e5df699b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Components</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_app_module_5954278b2f421110d43d2e5df699b65f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 02:19:10</sys_updated_on>
+        <timeline_page/>
+        <title>Components</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</application>
+        <file_path/>
+        <instance_id>8dc5b734db03ff0007072f17d4961965</instance_id>
+        <instance_name>dev90239</instance_name>
+        <name>sys_app_module_5954278b2f421110d43d2e5df699b65f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Components</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_675294_amos_component</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_675294_amos.component_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-25 02:19:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5954278b2f421110d43d2e5df699b65f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Components</sys_name><sys_overrides/><sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package><sys_policy/><sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope><sys_update_name>sys_app_module_5954278b2f421110d43d2e5df699b65f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-25 02:19:10</sys_updated_on><timeline_page/><title>Components</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>47901198</payload_hash>
+        <record_name>Components</record_name>
+        <reverted_from/>
+        <source>754ad7032f421110d43d2e5df699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 02:48:17</sys_created_on>
+        <sys_id>b3faa7432f821110d43d2e5df699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183728ba2cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 02:48:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1554278b6a421110ef25ec737e0c1361</update_guid>
+        <update_guid_history>1554278b6a421110ef25ec737e0c1361:-511890617,1554278b6a421110ef25ec737e0c1361:-511890617</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Components">efd7442f2f425110d43d2e5df699b61e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 23:32:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>203d4a25350c4e9688b7be4ae5e8a5a4</sys_id>
+        <sys_metadata>5954278b2f421110d43d2e5df699b65f</sys_metadata>
+        <sys_name>Components</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_scope_delete display_value="">92d497642fb547738bf5301f07e03d51</sys_scope_delete>
+        <sys_update_name>sys_app_module_5954278b2f421110d43d2e5df699b65f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5954278b2f421110d43d2e5df699b65f">b3faa7432f821110d43d2e5df699b6ac</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

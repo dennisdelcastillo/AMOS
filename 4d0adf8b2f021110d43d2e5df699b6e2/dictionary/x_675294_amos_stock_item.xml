@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1a98eb8f2f421110d43d2e5df699b66a" extends="x_675294_amos_register" label="Stock Item" max_length="40" name="x_675294_amos_stock_item" type="collection">
+        <element label="Maker's Ref" mandatory="true" max_length="200" name="u_makers_ref" type="string"/>
+        <element label="Register Number" max_length="32" name="u_register_number" reference="x_675294_amos_register" type="reference"/>
+    </element>
+</database>

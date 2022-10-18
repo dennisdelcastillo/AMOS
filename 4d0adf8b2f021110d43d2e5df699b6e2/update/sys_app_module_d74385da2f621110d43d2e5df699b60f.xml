@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="AMOS">741b93432f421110d43d2e5df699b691</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Report</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev90239.service-now.com/$pa_dashboard.do?sysparm_dashboard=c371c95a2f621110d43d2e5df699b681&amp;sysparm_tab=3232c95a2f621110d43d2e5df699b6a4&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</query>
+        <report display_value="AMOS Report">587ff4d62f621110d43d2e5df699b639</report>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 03:13:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d74385da2f621110d43d2e5df699b60f</sys_id>
+        <sys_name>Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_app_module_d74385da2f621110d43d2e5df699b60f</sys_update_name>
+        <timeline_page/>
+        <title>Dashboard</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

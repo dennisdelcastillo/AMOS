@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3aebcfa82f221110d43d2e5df699b6ed" label="Amos Component" max_length="40" name="x_675294_amos_component_number_and_name" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Component Name" max_length="80" name="u_component_name" type="string"/>
+        <element display="true" label="Component Number" max_length="20" name="u_component_number" type="string"/>
+    </element>
+</database>

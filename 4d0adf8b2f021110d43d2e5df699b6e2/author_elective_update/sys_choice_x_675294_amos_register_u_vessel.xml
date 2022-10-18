@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_vessel" table="x_675294_amos_register" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_vessel</element>
+            <name>x_675294_amos_register</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-25 01:58:38</sys_created_on>
+            <sys_name>u_vessel</sys_name>
+            <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+            <sys_update_name>sys_choice_x_675294_amos_register_u_vessel</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_vessel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Celestyal Crystal</label>
+            <language>en</language>
+            <name>x_675294_amos_register</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-25 02:36:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>crystal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_vessel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Celestyal Olympia</label>
+            <language>en</language>
+            <name>x_675294_amos_register</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-25 02:36:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>olympia</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>set</applies_to>
+        <cat_item/>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Stock Item Count</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+
+    var value = g_form.getValue('stock_items');
+
+    var parser = JSON.parse(value);
+
+    if (parser.length > 2) {
+
+        alert('Please ensure less than 50 rows');
+
+        return false;
+
+    }
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 07:27:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08471dc52fa65110d43d2e5df699b6a6</sys_id>
+        <sys_name>Stock Item Count</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>catalog_script_client_08471dc52fa65110d43d2e5df699b6a6</sys_update_name>
+        <table/>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <variable_set display_value="Stock Items">5e1547562f96d110d43d2e5df699b6f0</variable_set>
+        <view/>
+    </catalog_script_client>
+</record_update>

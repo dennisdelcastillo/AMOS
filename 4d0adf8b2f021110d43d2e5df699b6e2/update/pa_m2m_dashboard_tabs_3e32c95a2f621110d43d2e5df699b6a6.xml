@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Report">c371c95a2f621110d43d2e5df699b681</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-17 03:06:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e32c95a2f621110d43d2e5df699b6a6</sys_id>
+        <sys_name>c371c95a2f621110d43d2e5df699b681</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_3e32c95a2f621110d43d2e5df699b6a6</sys_update_name>
+        <tab display_value="AMOS Report - New Tab">3232c95a2f621110d43d2e5df699b6a4</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
