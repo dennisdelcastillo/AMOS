@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_675294_amos_register">x_675294_amos_register</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 01:38:45</sys_created_on>
+        <sys_id>9d1b93432f421110d43d2e5df699b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REG</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_number_9d1b93432f421110d43d2e5df699b6f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 01:38:45</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</application>
+        <file_path/>
+        <instance_id>8dc5b734db03ff0007072f17d4961965</instance_id>
+        <instance_name>dev90239</instance_name>
+        <name>sys_number_9d1b93432f421110d43d2e5df699b6f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_675294_amos_register">x_675294_amos_register</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>REG</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-25 01:38:45</sys_created_on><sys_id>9d1b93432f421110d43d2e5df699b6f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>REG</sys_name><sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package><sys_policy/><sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope><sys_update_name>sys_number_9d1b93432f421110d43d2e5df699b6f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-25 01:38:45</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1343435590</payload_hash>
+        <record_name>REG</record_name>
+        <reverted_from/>
+        <source>754ad7032f421110d43d2e5df699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 01:38:46</sys_created_on>
+        <sys_id>d91bd3432f421110d43d2e5df699b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183724bfd8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 01:38:46</sys_updated_on>
+        <type>Number</type>
+        <update_guid>151bd343ee42111077473252930bf700</update_guid>
+        <update_guid_history>151bd343ee42111077473252930bf700:-1343435590</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 02:17:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>39ac5d8671834fb992b58ba3a7cdc0e1</sys_id>
+        <sys_metadata>9d1b93432f421110d43d2e5df699b6f7</sys_metadata>
+        <sys_name>REG</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_parent display_value="">279a1f032f421110d43d2e5df699b62a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_scope_delete display_value="">92d497642fb547738bf5301f07e03d51</sys_scope_delete>
+        <sys_update_name>sys_number_9d1b93432f421110d43d2e5df699b6f7</sys_update_name>
+        <sys_update_version display_value="sys_number_9d1b93432f421110d43d2e5df699b6f7">d91bd3432f421110d43d2e5df699b600</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

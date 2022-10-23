@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_675294_amos.user" name="x_675294_amos.user">d7c4046b2f425110d43d2e5df699b610</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 23:21:13</sys_created_on>
+        <sys_id>183584eb2f025110d43d2e5df699b67d</sys_id>
+        <sys_name>d7c4046b2f425110d43d2e5df699b610</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_183584eb2f025110d43d2e5df699b67d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

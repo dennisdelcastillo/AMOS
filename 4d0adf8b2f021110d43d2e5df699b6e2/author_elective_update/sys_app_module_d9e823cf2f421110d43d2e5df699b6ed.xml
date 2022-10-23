@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Stock Items</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_675294_amos_stock_item</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_675294_amos.stock_item_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 02:39:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9e823cf2f421110d43d2e5df699b6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stock Items</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_app_module_d9e823cf2f421110d43d2e5df699b6ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 02:39:06</sys_updated_on>
+        <timeline_page/>
+        <title>Stock Items</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</application>
+        <file_path/>
+        <instance_id>8dc5b734db03ff0007072f17d4961965</instance_id>
+        <instance_name>dev90239</instance_name>
+        <name>sys_app_module_d9e823cf2f421110d43d2e5df699b6ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Stock Items</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_675294_amos_stock_item</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_675294_amos.stock_item_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-25 02:39:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9e823cf2f421110d43d2e5df699b6ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Stock Items</sys_name><sys_overrides/><sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package><sys_policy/><sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope><sys_update_name>sys_app_module_d9e823cf2f421110d43d2e5df699b6ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-25 02:39:06</sys_updated_on><timeline_page/><title>Stock Items</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1013466674</payload_hash>
+        <record_name>Stock Items</record_name>
+        <reverted_from/>
+        <source>754ad7032f421110d43d2e5df699b616</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 02:48:41</sys_created_on>
+        <sys_id>2d1b2b432f821110d43d2e5df699b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183728bffea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-25 02:48:41</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d1e823cf314211105d1fe88a35f30fef</update_guid>
+        <update_guid_history>d1e823cf314211105d1fe88a35f30fef:2078517018,d1e823cf314211105d1fe88a35f30fef:2078517018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Stock Items">b6f7402f2f425110d43d2e5df699b612</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-25 23:33:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>22b86d9f108c4fff8bd710d586b748e1</sys_id>
+        <sys_metadata>d9e823cf2f421110d43d2e5df699b6ed</sys_metadata>
+        <sys_name>Stock Items</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_scope_delete display_value="">92d497642fb547738bf5301f07e03d51</sys_scope_delete>
+        <sys_update_name>sys_app_module_d9e823cf2f421110d43d2e5df699b6ed</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d9e823cf2f421110d43d2e5df699b6ed">2d1b2b432f821110d43d2e5df699b620</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

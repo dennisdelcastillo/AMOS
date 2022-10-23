@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Vessel">5bd2c7522f96d110d43d2e5df699b68c</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 02:16:48</sys_created_on>
+        <sys_id>95938bd22f96d110d43d2e5df699b61b</sys_id>
+        <sys_name>Celestyal Olympia</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>question_choice_95938bd22f96d110d43d2e5df699b61b</sys_update_name>
+        <text>Celestyal Olympia</text>
+        <value>celestyal_olympia</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=95938bd22f96d110d43d2e5df699b61b"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>95938bd22f96d110d43d2e5df699b61b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 02:16:48</sys_created_on>
+        <sys_id>c0b38f922f96d110d43d2e5df699b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-05 02:16:48</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>95938bd22f96d110d43d2e5df699b61b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-05 02:16:48</sys_created_on>
+        <sys_id>48b38f922f96d110d43d2e5df699b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-05 02:16:48</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
