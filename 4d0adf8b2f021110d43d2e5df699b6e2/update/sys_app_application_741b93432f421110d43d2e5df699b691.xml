@@ -7,7 +7,7 @@
         <hint/>
         <name>Register</name>
         <order>100</order>
-        <roles>x_675294_amos.user</roles>
+        <roles>x_675294_amos.admin,x_675294_amos.controller</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-25 01:38:43</sys_created_on>

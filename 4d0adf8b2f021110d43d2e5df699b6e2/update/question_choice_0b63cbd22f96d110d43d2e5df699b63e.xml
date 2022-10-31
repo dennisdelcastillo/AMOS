@@ -16,7 +16,7 @@
         <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
         <sys_update_name>question_choice_0b63cbd22f96d110d43d2e5df699b63e</sys_update_name>
         <text>Celestyal Crystal</text>
-        <value>celestyal_crystal</value>
+        <value>Celestyal Crystal</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=0b63cbd22f96d110d43d2e5df699b63e"/>
     <fx_price action="INSERT_OR_UPDATE">

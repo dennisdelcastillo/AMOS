@@ -38,7 +38,7 @@
         <name>x_675294_amos_stock_item</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="x_675294_amos_register">x_675294_amos_register</reference>
         <reference_cascade_rule/>
