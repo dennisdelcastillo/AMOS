@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Send a notification when the integer value reached according to Priority with critical values on Register records.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_675294_amos.priority_critical</name>
+        <read_roles/>
+        <suffix>priority_critical</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 06:54:18</sys_created_on>
+        <sys_id>26a9f97a2f7a9110d43d2e5df699b6f9</sys_id>
+        <sys_name>x_675294_amos.priority_critical</sys_name>
+        <sys_package display_value="AMOS" source="x_675294_amos">4d0adf8b2f021110d43d2e5df699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMOS">4d0adf8b2f021110d43d2e5df699b6e2</sys_scope>
+        <sys_update_name>sys_properties_26a9f97a2f7a9110d43d2e5df699b6f9</sys_update_name>
+        <type>integer</type>
+        <value>1</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=26a9f97a2f7a9110d43d2e5df699b6f9"/>
+</record_update>
